@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+
+.mdl-button--accent {
+  color: white !important;
+  background-color: #ff4081 !important;
+}
+
+#toDoList {
+  width: 300px;
+}
+
+.container {
+  text-align: center;
+}
+
+.main-container {
+  display: inline-block;
+}
